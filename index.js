@@ -3,8 +3,10 @@ function theBeatlesPlay(musicians, instruments){
   for (var i = 0; i < musicians.length; i++) {
     for (var j = 0; j < instruments.length; j++) {
       beats.push(musicians[i] + " plays " + instruments[j])
-      console.log(beats)
+      //console.log(beats)
     }
   }
+  return beats
 }
+
 theBeatlesPlay(["John","Ringo","Paul", "George"],["Guitar","Bass","Drums"])
