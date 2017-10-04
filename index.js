@@ -22,7 +22,7 @@ const facts = [
 function johnLennonFacts(array){
   let i = 0
   while(i < array.length ){
-    array[i]=array[i]+"!!!"\
+    array[i]=array[i]+"!!!"
     i++;
   }
   console.log(array)
