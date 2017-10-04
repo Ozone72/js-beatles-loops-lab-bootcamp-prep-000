@@ -25,6 +25,6 @@ function johnLennonFacts(array){
     array[i]=array[i]+"!!!"
     i++;
   }
-  console.log(array)
+  return array
 }
 johnLennonFacts(facts)
