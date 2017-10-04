@@ -27,3 +27,4 @@ function johnLennonFacts(array){
   }
   console.log(array)
 }
+johnLennonFacts(facts)
