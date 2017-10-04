@@ -36,5 +36,5 @@ function iLoveTheBeatles(num){
   } while (num < 15);
   return arr
 }
-iLoveTheBeatles(7)
-iLoveTheBeatles(17)
+//iLoveTheBeatles(7)
+//iLoveTheBeatles(17)
