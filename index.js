@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians, instruments){
       beats.push(musicians[i] + " plays " + instruments[j])
     }
   }
-  //console.log(beats)
+  console.log(beats)
   return beats
 }
 
