@@ -36,3 +36,4 @@ function iLoveTheBeatles(num){
     console.log(arr, num)
   } while (num < 15);
 }
+iLoveTheBeatles(7)
