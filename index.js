@@ -31,9 +31,9 @@ function johnLennonFacts(array){
 function iLoveTheBeatles(num){
   let arr = []
   do {
-    arr.push('I love the Beatles!'')
+    arr.push('I love the Beatles!')
     num++
   } while (num < 15);
-  console.log(arr, num)
 }
 iLoveTheBeatles(7)
+iLoveTheBeatles(15)
