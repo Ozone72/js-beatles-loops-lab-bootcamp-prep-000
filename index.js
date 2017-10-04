@@ -10,7 +10,7 @@ function theBeatlesPlay(musicians, instruments){
   return beats
 }
 
-theBeatlesPlay(musicians, instruments)
+//theBeatlesPlay(musicians, instruments)
 
 const facts = [
   "He was the last Beatle to learn to drive",
@@ -27,4 +27,4 @@ function johnLennonFacts(array){
   }
   return array
 }
-johnLennonFacts(facts)
+//johnLennonFacts(facts)
