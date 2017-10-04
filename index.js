@@ -10,4 +10,4 @@ function theBeatlesPlay(musicians, instruments){
   return beats
 }
 
-theBeatlesPlay(["John","Ringo","Paul", "George"],["Guitar","Bass Guitar","Lead Guitar","Drums"])
+theBeatlesPlay(musicians, instruments)
